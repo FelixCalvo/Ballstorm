@@ -4698,3 +4698,122 @@ Script Stack (0 frames) :
 [2025.06.25-17.23.14:134][748]AssetCheck: /Game/Blueprints/WBP_Display Validating asset
 [2025.06.25-17.23.14:134][748]AssetCheck: /Game/Blueprints/BP_ExtraLive Validating asset
 [2025.06.25-17.23.14:134][748]AssetCheck: /Game/Blueprints/BP_Key Validating asset
+[2025.06.25-17.25.40:022][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8041.050781
+[2025.06.25-17.25.40:368][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.25-17.25.40:368][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8041.386719, Update Interval: 304.702301
+[2025.06.25-17.27.00:470][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.06.25-17.27.00:478][844]LogBlueprintAssist: Saved cache to G:/Felix/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 3.53ms
+[2025.06.25-17.27.00:481][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/D/WL/7JIZ3A1E2TO33AR0X9LM6X_Auto9
+[2025.06.25-17.27.00:481][844]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/7JIZ3A1E2TO33AR0X9LM6X_Auto96B87A37641E2FB9DBF0612BEE3C7AF2D.tmp' to 'G:/Felix/Unreal/Ballstorm/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/D/WL/7JIZ3A1E2TO33AR0X9LM6X_Auto9.uasset'
+[2025.06.25-17.27.00:484][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/A/73/ZRXKT2COI87PIX4GNRNYXA_Auto9
+[2025.06.25-17.27.00:484][844]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/ZRXKT2COI87PIX4GNRNYXA_Auto9953F06024DAB5608952818BBC7613A33.tmp' to 'G:/Felix/Unreal/Ballstorm/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/A/73/ZRXKT2COI87PIX4GNRNYXA_Auto9.uasset'
+[2025.06.25-17.27.00:486][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/5/2D/2LMEKKQ52Q29SBRUYE1KKZ_Auto9
+[2025.06.25-17.27.00:486][844]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/2LMEKKQ52Q29SBRUYE1KKZ_Auto9A1A0667E4F13C9D89E8A5EB39F738234.tmp' to 'G:/Felix/Unreal/Ballstorm/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/5/2D/2LMEKKQ52Q29SBRUYE1KKZ_Auto9.uasset'
+[2025.06.25-17.27.00:487][844]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.033
+[2025.06.25-17.27.00:487][844]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.06.25-17.31.37:773][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8398.761719
+[2025.06.25-17.31.37:911][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.25-17.31.37:911][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8398.890625, Update Interval: 322.669159
+[2025.06.25-17.32.27:589][712]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Personaje.BP_Personaje_C
+[2025.06.25-17.32.27:589][712]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Personaje.BP_Personaje_C
+[2025.06.25-17.32.27:593][712]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Personaje.BP_Personaje as actor: BP_Personaje_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Personaje_C_0
+[2025.06.25-17.32.27:595][712]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Personaje.BP_Personaje as actor: BP_Personaje_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Personaje_C_0
+[2025.06.25-17.32.28:494][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.06.25-17.32.28:497][793]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.06.25-17.32.28:502][793]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Personaje.BP_Personaje_C
+[2025.06.25-17.32.28:502][793]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Personaje.BP_Personaje_C
+[2025.06.25-17.32.28:509][793]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Personaje.BP_Personaje as actor: BP_Personaje_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Personaje_C_UAID_047C16F4C23E867502_2137371638
+[2025.06.25-17.32.28:511][793]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Personaje.BP_Personaje as actor: BP_Personaje_C /Game/Levels/Level1.Level1:PersistentLevel.BP_Personaje_C_UAID_047C16F4C23E867502_2137371638
+[2025.06.25-17.32.33:004][ 91]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.25-17.32.33:013][ 91]LogContentBundle: [Level1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.25-17.32.33:013][ 91]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.06.25-17.32.33:016][ 91]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 3.259 ms (total: 98.959 ms)
+[2025.06.25-17.32.33:034][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.25-17.32.33:034][ 91]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2025.06.25-17.32.33:038][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003598s)
+[2025.06.25-17.32.33:038][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.003626s)
+[2025.06.25-17.32.33:054][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.25-17.32.33:058][ 91]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.06.25-17.32.33:059][ 91]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.25-17.32.33:059][ 91]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.25-17.32.33:059][ 91]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.25-17.32.33:059][ 91]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.25-17.32.33:060][ 91]LogWorldPartition: Display: WorldPartition initialize took 1.329 ms (total: 347.684 ms)
+[2025.06.25-17.32.33:060][ 91]LogPlayLevel: PIE: World Init took: (0.002717s)
+[2025.06.25-17.32.33:062][ 91]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.06.25-17.32.33:062][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.25-17.32.33:062][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.25-17.32.33:062][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.25-17.32.33:062][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.25-17.32.33:062][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.25-17.32.33:062][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.25-17.32.33:062][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.25-17.32.33:062][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.25-17.32.33:062][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.25-17.32.33:062][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.25-17.32.33:062][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.25-17.32.33:063][ 91]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.25-17.32.33:073][ 91]LogAudioMixer: Display: Using Audio Hardware Device P49w-30 (NVIDIA High Definition Audio)
+[2025.06.25-17.32.33:074][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.25-17.32.33:074][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.25-17.32.33:074][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.25-17.32.33:074][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.06.25-17.32.33:074][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.06.25-17.32.33:076][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.06.25-17.32.33:076][ 91]LogInit: FAudioDevice initialized with ID 30.
+[2025.06.25-17.32.33:076][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.06.25-17.32.33:076][ 91]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level1'.
+[2025.06.25-17.32.33:076][ 91]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.06.25-17.32.33:079][ 91]LogLoad: Game class is 'BP_GameModeBolas_C'
+[2025.06.25-17.32.33:085][ 91]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.06.25-19.32.33
+[2025.06.25-17.32.33:096][ 91]LogWorld: Bringing up level for play took: 0.017391
+[2025.06.25-17.32.33:098][ 91]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.06.25-17.32.33:101][ 91]PIE: Server logged in
+[2025.06.25-17.32.33:101][ 91]PIE: Play in editor total start time 0,089 seconds.
+[2025.06.25-17.32.43:358][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.25-17.32.43:358][ 89]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.06.25-17.32.43:358][ 89]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.06.25-17.32.43:359][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.25-17.32.43:359][ 89]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2025.06.25-17.32.43:365][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.25-17.32.43:367][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.25-17.32.43:381][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.25-17.32.43:381][ 89]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.06.25-17.32.43:381][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.06.25-17.32.43:383][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.06.25-17.32.43:389][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.06.25-17.32.43:484][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.06.25-17.33.11:923][ 18]Cmd: SELECT NONE
+[2025.06.25-17.33.17:022][525]Cmd: TRANSACTION UNDO
+[2025.06.25-17.33.17:022][525]LogEditorTransaction: Undo Select None
+[2025.06.25-17.33.18:006][563]Cmd: TRANSACTION UNDO
+[2025.06.25-17.33.18:006][563]LogEditorTransaction: Undo Place Objects
+[2025.06.25-17.35.15:945][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.25-17.35.19:380][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.06.25-17.35.19:385][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.25-17.35.19:448][434]LogBlueprintAssist: Saved cache to G:/Felix/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 3.55ms
+[2025.06.25-17.35.19:450][434]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/D/WL/7JIZ3A1E2TO33AR0X9LM6X
+[2025.06.25-17.35.19:451][434]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/7JIZ3A1E2TO33AR0X9LM6X86E81D7846AAB16723573A86B2EE3843.tmp' to 'G:/Felix/Unreal/Ballstorm/Content/__ExternalActors__/Levels/Level1/D/WL/7JIZ3A1E2TO33AR0X9LM6X.uasset'
+[2025.06.25-17.35.19:453][434]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/A/73/ZRXKT2COI87PIX4GNRNYXA
+[2025.06.25-17.35.19:453][434]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/ZRXKT2COI87PIX4GNRNYXA603BAC794840E5FA3E1580B25A4D52CA.tmp' to 'G:/Felix/Unreal/Ballstorm/Content/__ExternalActors__/Levels/Level1/A/73/ZRXKT2COI87PIX4GNRNYXA.uasset'
+[2025.06.25-17.35.19:455][434]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/5/2D/2LMEKKQ52Q29SBRUYE1KKZ
+[2025.06.25-17.35.19:455][434]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/2LMEKKQ52Q29SBRUYE1KKZ8375A0714B9F1FFF161EC98B87F06ED1.tmp' to 'G:/Felix/Unreal/Ballstorm/Content/__ExternalActors__/Levels/Level1/5/2D/2LMEKKQ52Q29SBRUYE1KKZ.uasset'
+[2025.06.25-17.35.19:455][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Personaje] ([2] browsable assets)...
+[2025.06.25-17.35.19:489][434]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Personaje.BP_Personaje]
+[2025.06.25-17.35.19:489][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Personaje]
+[2025.06.25-17.35.19:489][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Personaje" FILE="G:/Felix/Unreal/Ballstorm/Content/Blueprints/BP_Personaje.uasset" SILENT=true
+[2025.06.25-17.35.19:502][434]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Personaje
+[2025.06.25-17.35.19:502][434]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/BP_Personaje5E71B0B442BC744F58F388B9D6E3B403.tmp' to 'G:/Felix/Unreal/Ballstorm/Content/Blueprints/BP_Personaje.uasset'
+[2025.06.25-17.35.19:507][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.414 ms (total: 606.445 ms)
+[2025.06.25-17.35.19:539][434]LogContentValidation: Display: Starting to validate 4 assets
+[2025.06.25-17.35.19:539][434]LogContentValidation: Enabled validators:
+[2025.06.25-17.35.19:539][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.25-17.35.19:539][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.25-17.35.19:539][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.25-17.35.19:539][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.25-17.35.19:539][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.25-17.35.19:539][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.25-17.35.19:539][434]AssetCheck: /Game/Levels/Level1 Validating asset
+[2025.06.25-17.35.19:539][434]AssetCheck: /Game/Blueprints/BP_Personaje Validating asset
+[2025.06.25-17.35.28:714][528]LogSlate: Window 'Undo History' being destroyed
+[2025.06.25-17.35.28:717][528]LogSlate: Window 'Undo History' being destroyed
