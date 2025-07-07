@@ -2151,3 +2151,59 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.07-15.36.10:437][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.07-15.36.10:437][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.07-15.36.10:437][380]AssetCheck: /Game/Levels/Level2 Validating asset
+[2025.07.07-15.37.32:718][937]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8489.996094
+[2025.07.07-15.37.33:718][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-15.37.33:718][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8490.663086, Update Interval: 312.396606
+[2025.07.07-15.43.40:908][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8858.173828
+[2025.07.07-15.43.41:908][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-15.43.41:908][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8858.840820, Update Interval: 315.753052
+[2025.07.07-15.49.49:102][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9226.360352
+[2025.07.07-15.49.50:101][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-15.49.50:101][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9227.026367, Update Interval: 341.791443
+[2025.07.07-15.56.30:620][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9627.861328
+[2025.07.07-15.56.31:621][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-15.56.31:621][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9628.527344, Update Interval: 313.788269
+[2025.07.07-16.02.18:461][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9975.682617
+[2025.07.07-16.02.19:461][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-16.02.19:462][396]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9976.349609, Update Interval: 357.870422
+[2025.07.07-16.03.01:637][ 22]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.07.07-16.04.13:275][310]Cmd: DELETE
+[2025.07.07-16.04.13:275][310]Cmd: ACTOR DELETE
+[2025.07.07-16.04.13:280][310]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2025.07.07-16.04.13:297][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.07.07-16.04.13:300][310]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.07.07-16.04.13:302][310]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.07.07-16.04.18:233][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.07-16.04.18:235][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="G:/Felix/Unreal/Ballstorm/Saved/Autosaves/Game/Levels/Level2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.07.07-16.04.18:245][800]LogBlueprintAssist: Saved cache to G:/Felix/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 9.21ms
+[2025.07.07-16.04.18:258][800]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level2_Auto3
+[2025.07.07-16.04.18:258][800]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/Level2_Auto372C4419641AE219FE579BB834B7148A3.tmp' to 'G:/Felix/Unreal/Ballstorm/Saved/Autosaves/Game/Levels/Level2_Auto3.umap'
+[2025.07.07-16.04.18:260][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2' took 0.038
+[2025.07.07-16.04.18:260][800]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.07.07-16.04.21:425][118]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.07-16.04.21:425][118]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.07-16.04.21:425][118]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/Level2.Level2:PersistentLevel.NavMeshBoundsVolume_3
+[2025.07.07-16.04.21:426][118]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/Level2.Level2:PersistentLevel.NavMeshBoundsVolume_3
+[2025.07.07-16.04.30:668][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.07-16.04.30:670][ 89]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.07.07-16.04.30:674][ 89]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.07-16.04.30:674][ 89]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.07-16.04.30:675][ 89]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/Level2.Level2:PersistentLevel.NavMeshBoundsVolume_4
+[2025.07.07-16.04.30:676][ 89]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/Levels/Level2.Level2:PersistentLevel.NavMeshBoundsVolume_4
+[2025.07.07-16.05.13:946][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-16.05.13:992][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="G:/Felix/Unreal/Ballstorm/Content/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.07-16.05.14:027][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.07.07-16.05.14:038][321]LogBlueprintAssist: Saved cache to G:/Felix/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 9.09ms
+[2025.07.07-16.05.14:051][321]LogSavePackage: Moving output files for package: /Game/Levels/Level2
+[2025.07.07-16.05.14:052][321]LogSavePackage: Moving 'G:/Felix/Unreal/Ballstorm/Saved/Level27BA407FD4EC6F01C3C9473A4C53221FE.tmp' to 'G:/Felix/Unreal/Ballstorm/Content/Levels/Level2.umap'
+[2025.07.07-16.05.14:064][321]LogFileHelpers: Saving map 'Level2' took 0.072
+[2025.07.07-16.05.14:068][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.954 ms (total: 550.852 ms)
+[2025.07.07-16.05.14:092][321]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.07-16.05.14:092][321]LogContentValidation: Enabled validators:
+[2025.07.07-16.05.14:092][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.07-16.05.14:092][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.07-16.05.14:092][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.07-16.05.14:092][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.07-16.05.14:092][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.07-16.05.14:092][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.07-16.05.14:092][321]AssetCheck: /Game/Levels/Level2 Validating asset
