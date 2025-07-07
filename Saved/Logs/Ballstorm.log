@@ -5752,3 +5752,140 @@ Make sure 'BP_Basura_C' has been compiled for  Set IASpeed
 [2025.07.07-10.51.08:382][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.07.07-10.51.08:387][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2025.07.07-10.51.08:570][512]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2025.07.07-10.53.39:663][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16486.802734
+[2025.07.07-10.53.39:823][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-10.53.39:823][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16486.949219, Update Interval: 338.522888
+[2025.07.07-11.00.09:121][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16877.935547
+[2025.07.07-11.00.09:275][184]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-11.00.09:275][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16878.078125, Update Interval: 357.529846
+[2025.07.07-11.01.56:107][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.07.07-11.01.56:111][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="D:/Documentos/Unreal/Ballstorm/Saved/Autosaves/Game/Levels/Level2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.07.07-11.01.56:128][429]LogBlueprintAssist: Saved cache to D:/Documentos/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 17.13ms
+[2025.07.07-11.01.56:150][429]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level2_Auto3
+[2025.07.07-11.01.56:150][429]LogSavePackage: Moving 'D:/Documentos/Unreal/Ballstorm/Saved/Level2_Auto32FAD16414DFC5BCD07CA64804BDDF961.tmp' to 'D:/Documentos/Unreal/Ballstorm/Saved/Autosaves/Game/Levels/Level2_Auto3.umap'
+[2025.07.07-11.01.56:151][429]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2' took 0.070
+[2025.07.07-11.01.56:151][429]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2025.07.07-11.02.06:327][129]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.06:327][129]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.06:334][129]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_6
+[2025.07.07-11.02.06:338][129]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_6
+[2025.07.07-11.02.07:642][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.07-11.02.07:645][214]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.07.07-11.02.07:650][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.07:650][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.07:654][214]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_7
+[2025.07.07-11.02.07:658][214]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_7
+[2025.07.07-11.02.09:604][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.09:604][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.09:607][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_8
+[2025.07.07-11.02.09:609][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_8
+[2025.07.07-11.02.10:658][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.07.07-11.02.10:661][365]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.07.07-11.02.10:666][365]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.10:666][365]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.10:674][365]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_9
+[2025.07.07-11.02.10:678][365]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_9
+[2025.07.07-11.02.12:154][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.12:154][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.12:159][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_10
+[2025.07.07-11.02.12:162][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_10
+[2025.07.07-11.02.12:604][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.07-11.02.12:607][455]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.07.07-11.02.12:612][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.12:612][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.12:621][455]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_11
+[2025.07.07-11.02.12:624][455]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_11
+[2025.07.07-11.02.13:769][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.13:769][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.13:775][499]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_12
+[2025.07.07-11.02.13:778][499]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_12
+[2025.07.07-11.02.14:633][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.07.07-11.02.14:636][545]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.07.07-11.02.14:641][545]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.14:641][545]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.02.14:650][545]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_13
+[2025.07.07-11.02.14:653][545]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_13
+[2025.07.07-11.04.04:830][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.04.04:830][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.04.04:835][696]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_14
+[2025.07.07-11.04.04:839][696]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_14
+[2025.07.07-11.04.07:433][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.07.07-11.04.07:437][865]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.07-11.04.07:442][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.04.07:442][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Enemigo.BP_Enemigo_C
+[2025.07.07-11.04.07:450][865]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_15
+[2025.07.07-11.04.07:453][865]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo as actor: BP_Enemigo_C /Game/Levels/Level2.Level2:PersistentLevel.BP_Enemigo_C_15
+[2025.07.07-11.06.42:854][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17273.292969
+[2025.07.07-11.06.43:026][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-11.06.43:027][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17273.455078, Update Interval: 325.097198
+[2025.07.07-11.11.56:948][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.07.07-11.11.56:953][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="D:/Documentos/Unreal/Ballstorm/Saved/Autosaves/Game/Levels/Level2_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.07.07-11.11.56:971][467]LogBlueprintAssist: Saved cache to D:/Documentos/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 17.75ms
+[2025.07.07-11.11.56:996][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level2_Auto4
+[2025.07.07-11.11.56:996][467]LogSavePackage: Moving 'D:/Documentos/Unreal/Ballstorm/Saved/Level2_Auto4E09BABD940F7F0B29F5F53ADAC2AFAAE.tmp' to 'D:/Documentos/Unreal/Ballstorm/Saved/Autosaves/Game/Levels/Level2_Auto4.umap'
+[2025.07.07-11.11.56:997][467]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2' took 0.088
+[2025.07.07-11.11.56:997][467]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2025.07.07-11.13.05:160][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17656.982422
+[2025.07.07-11.13.06:165][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-11.13.06:165][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17657.644531, Update Interval: 356.306641
+[2025.07.07-11.16.42:794][243]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Move Node(s) entirely.
+[2025.07.07-11.19.46:863][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18059.892578
+[2025.07.07-11.19.47:020][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.07-11.19.47:020][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18060.037109, Update Interval: 316.494629
+[2025.07.07-11.20.11:917][ 50]LogDerivedDataCache: C:/Users/felix/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.07-11.20.17:804][490]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.07-11.20.38:097][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.07.07-11.20.39:598][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-11.20.39:661][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Enemigo] ([2] browsable assets)...
+[2025.07.07-11.20.39:802][133]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Enemigo.BP_Enemigo]
+[2025.07.07-11.20.39:802][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemigo]
+[2025.07.07-11.20.39:802][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemigo" FILE="D:/Documentos/Unreal/Ballstorm/Content/Blueprints/BP_Enemigo.uasset" SILENT=true
+[2025.07.07-11.20.39:820][133]LogBlueprintAssist: Saved cache to D:/Documentos/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 18.13ms
+[2025.07.07-11.20.39:850][133]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemigo
+[2025.07.07-11.20.39:850][133]LogSavePackage: Moving 'D:/Documentos/Unreal/Ballstorm/Saved/BP_Enemigo1D09C781468A1D27A79A6387CF2B340A.tmp' to 'D:/Documentos/Unreal/Ballstorm/Content/Blueprints/BP_Enemigo.uasset'
+[2025.07.07-11.20.39:862][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.726 ms (total: 7.34 sec)
+[2025.07.07-11.20.39:927][133]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.07-11.20.39:927][133]LogContentValidation: Enabled validators:
+[2025.07.07-11.20.39:927][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.07-11.20.39:927][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.07-11.20.39:927][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.07-11.20.39:927][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.07-11.20.39:927][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.07-11.20.39:927][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.07-11.20.39:927][133]AssetCheck: /Game/Blueprints/BP_Enemigo Validating asset
+[2025.07.07-11.20.42:759][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.07.07-11.20.42:767][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-11.20.42:827][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2" FILE="D:/Documentos/Unreal/Ballstorm/Content/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.07-11.20.42:895][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.07.07-11.20.42:914][303]LogBlueprintAssist: Saved cache to D:/Documentos/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 17.00ms
+[2025.07.07-11.20.42:938][303]LogSavePackage: Moving output files for package: /Game/Levels/Level2
+[2025.07.07-11.20.42:939][303]LogSavePackage: Moving 'D:/Documentos/Unreal/Ballstorm/Saved/Level2FABD21C24731B8F638F9C0AA7C1B08F6.tmp' to 'D:/Documentos/Unreal/Ballstorm/Content/Levels/Level2.umap'
+[2025.07.07-11.20.42:959][303]LogFileHelpers: Saving map 'Level2' took 0.132
+[2025.07.07-11.20.42:969][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.018 ms (total: 7.54 sec)
+[2025.07.07-11.20.43:026][303]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.07-11.20.43:026][303]LogContentValidation: Enabled validators:
+[2025.07.07-11.20.43:026][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.07-11.20.43:027][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.07-11.20.43:027][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.07-11.20.43:027][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.07-11.20.43:027][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.07-11.20.43:027][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.07-11.20.43:027][303]AssetCheck: /Game/Levels/Level2 Validating asset
+[2025.07.07-11.21.19:533][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.07-11.21.19:594][  3]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemigo] ([2] browsable assets)...
+[2025.07.07-11.21.19:596][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemigo]
+[2025.07.07-11.21.19:596][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemigo" FILE="D:/Documentos/Unreal/Ballstorm/Content/Blueprints/BP_Enemigo.uasset" SILENT=true
+[2025.07.07-11.21.19:613][  3]LogBlueprintAssist: Saved cache to D:/Documentos/Unreal/Ballstorm/Saved/BlueprintAssist/BlueprintAssistCache.json took 17.83ms
+[2025.07.07-11.21.19:643][  3]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemigo
+[2025.07.07-11.21.19:643][  3]LogSavePackage: Moving 'D:/Documentos/Unreal/Ballstorm/Saved/BP_Enemigo2CE3E6A64DDDEFDC98E641BB6DBB4FE5.tmp' to 'D:/Documentos/Unreal/Ballstorm/Content/Blueprints/BP_Enemigo.uasset'
+[2025.07.07-11.21.19:654][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.236 ms (total: 7.66 sec)
+[2025.07.07-11.21.19:695][  3]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.07-11.21.19:695][  3]LogContentValidation: Enabled validators:
+[2025.07.07-11.21.19:695][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.07-11.21.19:696][  3]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.07-11.21.19:696][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.07-11.21.19:696][  3]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.07-11.21.19:696][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.07-11.21.19:696][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.07-11.21.19:696][  3]AssetCheck: /Game/Blueprints/BP_Enemigo Validating asset
+[2025.07.07-11.21.24:201][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
